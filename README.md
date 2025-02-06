@@ -1,4 +1,4 @@
-At the intersection of entertainment and technology. Game / film / web dev. Unity and Unreal enthusiast.
+At the intersection of entertainment and technology. Game / film dev. Unity and Unreal enthusiast.
 
 I studied computer science at the University of Waterloo and filmmaking at Vancouver Film School. I founded a startup and worked at several others creating immersive experiences and tools to build them.
 
