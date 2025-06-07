@@ -8,6 +8,7 @@ M in comedy duo [The S&M Experience](https://sm.experience.sexy/).
 
 - [Consolation](https://github.com/mminer/consolation): in-game debug console
 - [Unity Extensions](https://github.com/mminer/unity-extensions): useful extension methods
+- [Position Visualizer](https://github.com/mminer/position-visualizer): visualize positions in the scene
 - [Hierarchy Icons](https://github.com/mminer/hierarchy-icons): show component icons in the Hierarchy
 - [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks): editor extension to bookmark scene views
 - [Methodic](https://github.com/mminer/methodic): test and interact with functions using a GUI
